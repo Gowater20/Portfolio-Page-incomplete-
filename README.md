@@ -1,22 +1,22 @@
 # Portfolio Page
 
-Questo è un progetto di esercitazione e perchè no successivamente sarà la mia pagina di presentazione personale.
+This is a practice project and possibly will be my personal presentation page in the future.
 
-## Descrizione
+## Description
 
-Il progetto è un sito web statico in cui è stato utilizzato HTML e CSS.
+The project is a static website built using HTML and CSS.
 
-## Istruzioni per l'Installazione
+## Installation Instructions
 
-1. Clona il repository:
+1. **Clone the repository:**
     ```sh
-    git clone https://github.com/tuo-username/nome-del-repository.git
+    git clone https://github.com/Gowater20/Portfolio-Page-incomplete-.git
     ```
-2. Apri `index.html` nel tuo browser preferito.
+2. **Open** `index.html` **in your preferred browser.**
 
-## Struttura
+## Structure
 
-Il sito è attualmente suddiviso in 3 sezioni:
-  - l'header in cui si può navigare tra le diverse sezioni del sito
-  - il main in cui c'è una breve descrizione del proprietario e i vari progetti
-  - il footer in cui ci sono i contatti
+The site is currently divided into 3 sections:
+  - The header where you can navigate between different sections of the site
+  - The main section which contains a brief description of the owner and various projects
+  - The footer which includes contact information
